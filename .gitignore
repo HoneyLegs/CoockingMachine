@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+CookingMachine/Library/Artifacts
+CookingMachine/Logs
+CookingMachine/.vsconfig
+CookingMachine/Temp
